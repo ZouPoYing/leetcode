@@ -11,11 +11,73 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57931be3-3b84-48ab-9b6d-b671572acc32" name="Default Changelist" comment="No7">
+      <change beforePath="$PROJECT_DIR$/../hvs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/dc.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/HvsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/controller/AppController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/controller/AuditController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/controller/MsgController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/controller/OfferController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/controller/OrderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/controller/SetController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/dao/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/dao/Audit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/dao/File.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/dao/Msg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/dao/Offer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/dao/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/dao/Set.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/dao/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/mapper/AppMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/mapper/AuditMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/mapper/FileMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/mapper/MsgMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/mapper/OfferMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/mapper/OrderMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/mapper/SetMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/mapper/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/service/AppService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/service/AuditService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/service/FileService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/service/MsgService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/service/OfferService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/service/OrderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/service/SetService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/utils/EtityUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/utils/FileDownLoad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/java/com/graduation/hvs/utils/FileUploadUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/resources/META-INF/additional-spring-configuration-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/resources/static/1_1618037221285_拨音.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/resources/static/1_1618040225180_拨音.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/resources/static/1_1618040510948_拨音2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/resources/static/2_1618050296272_拗长音.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/resources/static/2_1618052634456_拨音.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/resources/static/2_1618074558396_测试.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/resources/static/2_1618088029537_申购单.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/resources/static/2_1618088262850_申购单.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/resources/static/2_1618115787886_新的申购单.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/resources/static/2_1618115839521_新的申购单.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/resources/static/4_1618077530487_博丽灵梦.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/resources/static/4_1618078362763_浊音半浊音.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/resources/static/5_1618250851091_history.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/main/resources/static/_1618040109229_拗长音.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hvs/src/test/java/com/graduation/hvs/HvsApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_10_26_9_58__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_10_26_9_58__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/leetcode/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/leetcode/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/leetcode/exercises/no1/No1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/leetcode/exercises/no1/No1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leetcode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/exercises/no1/No1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/exercises/no1/No1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leetcode/exercises/no7/No7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/exercises/no7/No7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,33 +95,83 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1zqt6irNtpvJfmgux6dk5OaZAzq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.Main" />
+  <component name="RunManager" selected="Application.No26">
+    <configuration name="No13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.exercises.no13.No13" />
       <module name="leetcode" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.exercises.no13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.exercises.no1.No1" />
+    <configuration name="No14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.exercises.no14.No14" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.exercises.no1.*" />
+          <option name="PATTERN" value="com.leetcode.exercises.no14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="No20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.exercises.no20.No20" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.exercises.no20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="No21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.exercises.no21.No21" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.exercises.no21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="No26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.exercises.no26.No26" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.exercises.no26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,13 +180,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.No1" />
+      <item itemvalue="Application.No13" />
+      <item itemvalue="Application.No14" />
+      <item itemvalue="Application.No20" />
+      <item itemvalue="Application.No21" />
+      <item itemvalue="Application.No26" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.No1" />
+        <item itemvalue="Application.No26" />
+        <item itemvalue="Application.No21" />
+        <item itemvalue="Application.No20" />
+        <item itemvalue="Application.No14" />
+        <item itemvalue="Application.No13" />
       </list>
     </recent_temporary>
   </component>
@@ -89,6 +207,9 @@
       <option name="presentableId" value="Default" />
       <updated>1634887272521</updated>
       <workItem from="1634887282101" duration="18886000" />
+      <workItem from="1635259038520" duration="616000" />
+      <workItem from="1644393520623" duration="325000" />
+      <workItem from="1647057047454" duration="19611000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1635153485579</created>
@@ -142,6 +263,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
@@ -149,77 +271,45 @@
     <option name="LAST_COMMIT_MESSAGE" value="No7" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="349" y="87" key="#Deployment" timestamp="1635213389522">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1340" height="220" key="GridCell.Tab.0.bottom" timestamp="1647173771128">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="349" y="87" key="#Deployment/0.0.1536.824@0.0.1536.824" timestamp="1635213389522" />
-    <state x="192" y="136" width="1128" height="584" key="DiffContextDialog" timestamp="1635214103582">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1340" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1647173771128" />
+    <state width="1340" height="220" key="GridCell.Tab.0.center" timestamp="1647173771128">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="192" y="136" width="1128" height="584" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1635214103582" />
-    <state x="537" y="183" key="FileChooserDialogImpl" timestamp="1635153429629">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1340" height="220" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1647173771128" />
+    <state width="1340" height="220" key="GridCell.Tab.0.left" timestamp="1647173771128">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="537" y="183" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1635153429629" />
-    <state width="1270" height="230" key="GridCell.Tab.0.bottom" timestamp="1635215850745">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1340" height="220" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1647173771128" />
+    <state width="1340" height="220" key="GridCell.Tab.0.right" timestamp="1647173771128">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1270" height="230" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1635215850745" />
-    <state width="1270" height="230" key="GridCell.Tab.0.center" timestamp="1635215850745">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1340" height="220" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1647173771128" />
+    <state width="1340" height="272" key="GridCell.Tab.1.bottom" timestamp="1647173484068">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1270" height="230" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1635215850745" />
-    <state width="1270" height="230" key="GridCell.Tab.0.left" timestamp="1635215850745">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1340" height="272" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1647173484068" />
+    <state width="1340" height="272" key="GridCell.Tab.1.center" timestamp="1647173484068">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1270" height="230" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1635215850745" />
-    <state width="1270" height="230" key="GridCell.Tab.0.right" timestamp="1635215850745">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1340" height="272" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1647173484068" />
+    <state width="1340" height="272" key="GridCell.Tab.1.left" timestamp="1647173484068">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1270" height="230" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1635215850745" />
-    <state width="1270" height="230" key="GridCell.Tab.1.bottom" timestamp="1635215850596">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1340" height="272" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1647173484068" />
+    <state width="1340" height="272" key="GridCell.Tab.1.right" timestamp="1647173484068">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1270" height="230" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1635215850596" />
-    <state width="1270" height="230" key="GridCell.Tab.1.center" timestamp="1635215850596">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1340" height="272" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1647173484068" />
+    <state x="495" y="157" key="SettingsEditor" timestamp="1647057104140">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1270" height="230" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1635215850596" />
-    <state width="1270" height="230" key="GridCell.Tab.1.left" timestamp="1635215850596">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="495" y="157" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1647057104140" />
+    <state x="368" y="173" key="new project wizard" timestamp="1644393844651">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1270" height="230" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1635215850596" />
-    <state width="1270" height="230" key="GridCell.Tab.1.right" timestamp="1635215850596">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1270" height="230" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1635215850596" />
-    <state x="550" y="148" key="RollbackChangesDialog" timestamp="1635153840242">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="550" y="148" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1635153840242" />
-    <state x="258" y="73" key="SettingsEditor" timestamp="1635153832061">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="258" y="73" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1635153832061" />
-    <state x="192" y="136" width="1128" height="584" key="ShowDiffWithBranchDialog" timestamp="1635214103582">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="192" y="136" width="1128" height="584" key="ShowDiffWithBranchDialog/0.0.1536.824@0.0.1536.824" timestamp="1635214103582" />
-    <state x="349" y="161" key="Vcs.Push.Dialog.v2" timestamp="1635213796018">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="349" y="161" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1635213796018" />
-    <state x="551" y="341" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1635214097831">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="551" y="341" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1635214097831" />
-    <state x="456" y="162" width="600" height="584" key="find.popup" timestamp="1635150978315">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="456" y="162" width="600" height="584" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1635150978315" />
-    <state x="537" y="233" key="git4idea.history.wholeTree.VcsStructureChooser" timestamp="1635153829309">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="537" y="233" key="git4idea.history.wholeTree.VcsStructureChooser/0.0.1536.824@0.0.1536.824" timestamp="1635153829309" />
+    <state x="368" y="173" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1644393844651" />
   </component>
 </project>
