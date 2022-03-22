@@ -72,12 +72,8 @@
       <change beforePath="$PROJECT_DIR$/../hvs/src/main/resources/static/5_1618250851091_history.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../hvs/src/main/resources/static/_1618040109229_拗长音.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../hvs/src/test/java/com/graduation/hvs/HvsApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_10_26_9_58__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_10_26_9_58__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leetcode/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leetcode/exercises/no1/No1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/exercises/no1/No1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leetcode/exercises/no7/No7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/exercises/no7/No7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/leetcode/exercises/no26/No26.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/leetcode/exercises/no26/No26.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,15 +107,16 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.No26">
-    <configuration name="No13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.exercises.no13.No13" />
+  <component name="RunManager" selected="Application.Demo1">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.classic.demo.Demo" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.exercises.no13.*" />
+          <option name="PATTERN" value="com.leetcode.classic.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.exercises.no14.No14" />
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.classic.demo.Demo1" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.exercises.no14.*" />
+          <option name="PATTERN" value="com.leetcode.classic.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,25 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="No20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.exercises.no20.No20" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.exercises.no27.Main" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.exercises.no20.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="No21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.exercises.no21.No21" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode.exercises.no21.*" />
+          <option name="PATTERN" value="com.leetcode.exercises.no27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,20 +163,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="No27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.exercises.no27.No27" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.exercises.no27.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.No13" />
-      <item itemvalue="Application.No14" />
-      <item itemvalue="Application.No20" />
-      <item itemvalue="Application.No21" />
       <item itemvalue="Application.No26" />
+      <item itemvalue="Application.No27" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.Demo1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo1" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.No27" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.No26" />
-        <item itemvalue="Application.No21" />
-        <item itemvalue="Application.No20" />
-        <item itemvalue="Application.No14" />
-        <item itemvalue="Application.No13" />
       </list>
     </recent_temporary>
   </component>
@@ -210,6 +207,11 @@
       <workItem from="1635259038520" duration="616000" />
       <workItem from="1644393520623" duration="325000" />
       <workItem from="1647057047454" duration="19611000" />
+      <workItem from="1647242756408" duration="875000" />
+      <workItem from="1647503270711" duration="5012000" />
+      <workItem from="1647603763438" duration="1211000" />
+      <workItem from="1647673162466" duration="5747000" />
+      <workItem from="1647714771720" duration="21869000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1635153485579</created>
@@ -271,38 +273,46 @@
     <option name="LAST_COMMIT_MESSAGE" value="No7" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1340" height="220" key="GridCell.Tab.0.bottom" timestamp="1647173771128">
+    <state x="799" y="218" key="#com.intellij.ide.util.MemberChooser" timestamp="1647721951317">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1647173771128" />
-    <state width="1340" height="220" key="GridCell.Tab.0.center" timestamp="1647173771128">
+    <state x="799" y="218" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1647721951317" />
+    <state x="774" y="268" key="FileChooserDialogImpl" timestamp="1647509893722">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="220" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1647173771128" />
-    <state width="1340" height="220" key="GridCell.Tab.0.left" timestamp="1647173771128">
+    <state x="774" y="268" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1647509893722" />
+    <state width="1340" height="220" key="GridCell.Tab.0.bottom" timestamp="1647767828075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="220" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1647173771128" />
-    <state width="1340" height="220" key="GridCell.Tab.0.right" timestamp="1647173771128">
+    <state width="1340" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1647767828075" />
+    <state width="1340" height="220" key="GridCell.Tab.0.center" timestamp="1647767828075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="220" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1647173771128" />
-    <state width="1340" height="272" key="GridCell.Tab.1.bottom" timestamp="1647173484068">
+    <state width="1340" height="220" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1647767828075" />
+    <state width="1340" height="220" key="GridCell.Tab.0.left" timestamp="1647767828075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="272" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1647173484068" />
-    <state width="1340" height="272" key="GridCell.Tab.1.center" timestamp="1647173484068">
+    <state width="1340" height="220" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1647767828075" />
+    <state width="1340" height="220" key="GridCell.Tab.0.right" timestamp="1647767828075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="272" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1647173484068" />
-    <state width="1340" height="272" key="GridCell.Tab.1.left" timestamp="1647173484068">
+    <state width="1340" height="220" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1647767828075" />
+    <state width="1340" height="272" key="GridCell.Tab.1.bottom" timestamp="1647763463104">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="272" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1647173484068" />
-    <state width="1340" height="272" key="GridCell.Tab.1.right" timestamp="1647173484068">
+    <state width="1340" height="272" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1647763463104" />
+    <state width="1340" height="272" key="GridCell.Tab.1.center" timestamp="1647763463104">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="272" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1647173484068" />
+    <state width="1340" height="272" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1647763463104" />
+    <state width="1340" height="272" key="GridCell.Tab.1.left" timestamp="1647763463104">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="272" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1647763463104" />
+    <state width="1340" height="272" key="GridCell.Tab.1.right" timestamp="1647763463104">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="272" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1647763463104" />
     <state x="495" y="157" key="SettingsEditor" timestamp="1647057104140">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
